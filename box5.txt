@@ -1,0 +1,37 @@
+1. KITABOO
+This cloud-based, digital interactive online platform is ideal to deliver a seamless learning experience, anytime and anywhere. Through this next-gen platform, you can create online courses that include audio, video, images and text.  It includes interactive elements and features to create MCQs and quizzes. It also has an analytics feature to allow you to track the performance of the eLearning courses and gauge whether your students are engaged with the content. KITABOO offers responsive content for all device types and for Android and iOS platforms. KITABOO is one of the world’s most widely used platforms with over 10 million users across 25 countries.
+
+Also Read: Top 10 eBook Readers to Consider while Switching from Print Books
+
+2. Docebo
+This LMS is built on the philosophy of learn, coach and share. This interactive online platform is ideal to gamify courses, complete with badges, awards and rankings. It can also be easily integrated with third-party and major web conferencing tools such as Adobe Connect, SkyMeeting, Big Blue Button, and Blue Jeans. The software has an easy to use interface allowing course creators to effortlessly design courses and content. Besides, it can also be used to sell online courses.
+
+Also Read: 8 eBook Conversion Tools Compatible with Multiple Formats
+
+3. SAP Litmos
+This interactive online platform is well-suited for remote learning on all types of devices including mobile. It has powerful tools to create, design, store, and deliver online learning with powerful track completion and assessment progress. You can integrate a variety of elements into the eLearning course such as audio, video, and games. The platform supports multiple formats to create training modules and online assessments such as quizzes, and surveys to achieve feedback. It also has a customizable and intuitive interface that you can use to brand your courses.
+
+Also Read: 6 Key Benefits of Using Automated PDF to ePUB Converters
+
+4. LearnUpon LMS
+The software includes powerful features to support learning and is both scalable and device-friendly, enabling students to engage more effectively with their course content. You can design engaging content even without technical expertise, test students’ knowledge and collect feedback using exams and surveys, deliver SCROM-compliant content through an intuitive interface, and offer blended learning with a mix of instructor-led training via webinars or live sessions.
+
+Also Read: Best Practices in Creating SCORM Content for Your LMS
+
+5. Mindflash
+This cloud-based platform is ideal for large institutions catering to both on-campus and distant learners. The software offers various innovations in all areas of eLearning, including content creation, analytics and management. You can use its core functionality to effortlessly create, manage and track learning. The intuitive interface can be customized to brand your courses.
+
+6. iSpring Learn
+This cloud-based interactive online platform can be used to design courses than can be accessed from any device, and even offline, thus, helping to breaking time and place constraints. It offers detailed statistics to track each student’s progress. You can also benefit from a variety of reports related to course enrollment, online learning activities and completion rates while keeping a keen eye on the progress of each student during the course. The software provides unlimited storage so you can upload unlimited content items, such as courses, videos or presentations.
+
+7. TalentLMS
+This is one of the easiest to use cloud-based LMS to deliver courses while also allowing you to white-label your content. This interactive online platform offers responsive design which means that your students can access online learning from any mobile device including iPhone, iPad, and Android. The software also provides great customizable potential including a custom domain, logo, and theme. It also supports both ILT and blended learning and includes an abundant range of communication tools such as video conferencing, calendar, personal messages, and discussion forums.
+
+8. 360Learning Engagement Platform
+You can use the software to reuse your already created online courses and also leverage available online training content, apart from creating your own custom courses. It also offers cutting edge tools to facilitate content creation in several formats and languages, using various collaboration methods. This interactive online platform also supports ongoing improvement by providing multi-segment data, and course statistics such as attendance and completion rates.
+
+9. Moodle
+This free and open-source learning management system offers robust functionalities that make it a great option for educational institutions. The software is fully customizable and scalable and integrates seamlessly with solutions like Microsoft Office 365, NextCloud, Google Apps, and more. It also offers solutions specific to various educational needs, such as Moodle Education, Moodle App, Moodle Workplace, MoodleNet, and Certified Integrations and Partnerships.
+
+10. Adobe Captivate Prime 
+This platform provides full control over the eLearning process from course setup and delivery to tracking learner progress, with features such as Fluidic Player and intuitive dashboard. The Fluidic player can support all types of files, such as PDFs, DOCX, PPTs, videos, SCORM, AICC, and xAPI-compliant packages. The fully functional dashboard provides students information about the tasks to complete and their performance. Besides, this interactive online platform also delivers learning at all times – online, offline and on the mobile. Captivate is easy to install and use, enabling eLearning administrators to quickly assign roles and activities, and organize content into modules and courses using the inbuilt LCMS functionality.

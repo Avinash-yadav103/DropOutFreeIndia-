@@ -1,0 +1,18 @@
+
+
+.slidersection{
+    width: 100%;
+    margin: 0;
+}
+
+img{
+    width: 100%;
+    height: 70vh;
+    margin: 0;
+}
+
+.positiontext{
+    display: flex;
+    position: absolute;
+    z-index: 100;
+}

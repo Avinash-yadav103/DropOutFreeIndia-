@@ -1,0 +1,51 @@
+body {
+    font: 15px "Helvetica";
+  }
+  
+  .donatebox a {  
+    display: inline-block;
+    /* margin: 20px; */
+    margin-top: 2.8vh;
+    position: relative;
+    text-decoration: none;
+  }
+  
+  .donate {
+    background: #d53c1a;
+    background: -webkit-linear-gradient(top, transparent 0%, rgba(247, 244, 244, 0.4) 100%),
+                -webkit-linear-gradient(left, lighten(#d6d6cd, 15%) 0%, #efeaa2 50%, lighten(#e07a0d, 15%) 100%);
+    background: linear-gradient(to bottom, transparent 0%, rgba(194, 183, 85, 0.4) 100%),
+                linear-gradient(to right, lighten(#d4b010, 15%) 0%, #c97a0c 50%, lighten(#cf0b0b, 15%) 100%);
+    background-position: 0 0;
+    background-size: 200% 100%;
+    border-radius: 2px;
+    color: #fff;
+    padding: 12px 50px 12px 12px;
+    text-shadow: 1px 1px 5px #666;
+    -webkit-transition: all 800ms;
+    transition: all 800ms;
+    
+    &:after {
+      border-left: 1px solid darken(#e85405, 5%);
+      color: darken(#c47344, 10%);
+      content: "\f004";
+      font: 20px "FontAwesome";
+      padding: 10px 0;
+      padding-left: 15px;
+      position: absolute;
+      right: 16px;
+      top: 2px;    
+      -webkit-transition: all 600ms 200ms;
+      transition: all 600ms 200ms;
+    }
+    
+    &:hover {
+      background-position: -100% 0;
+      
+      &:after {
+        border-left: 1px solid lighten(#00684d, 5%);
+        color: #fff;
+        text-shadow: 0 0 10px #000;
+      }
+    }
+  }

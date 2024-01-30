@@ -1,0 +1,33 @@
+.surveystext{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    margin: 1vh;
+    padding: 1vh;
+    /* background-color: #FBFAF8; */
+}
+
+.images1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: #FBFAF8; */
+}
+
+.images1 img{
+    width: 30%;
+    padding: 2vh;
+}
+
+.images2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: #FBFAF8; */
+}
+
+.images2 img{
+    width: 30%;
+}
+

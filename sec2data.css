@@ -1,0 +1,75 @@
+.sec2data{
+    background-color: rgb(233, 243, 233);
+}
+
+.dataanalysis{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    margin: 0;
+    padding: 1vh;
+    background-color: rgb(233, 243, 233);
+}
+
+/* .data{
+
+} */
+
+.sec2data{
+    padding: 5vh;
+}
+
+.data1{
+    padding: 10vh;
+    display: flex;
+
+}
+
+.data1 p{
+    padding-left: 35vh;
+    width: 700px;
+    margin-top: -10vh;
+}
+
+.data1 img{
+    width: 350px;
+    height: 225px;
+}
+
+.data2{
+    padding: 10vh;
+    display: flex;
+
+}
+
+.data2 p{
+    padding-right: 30vh;
+    width: 900px;
+    margin-top: -10vh;
+}
+
+.data2 img{
+    width: 700px;
+    height: 225px;
+}
+
+.data3{
+    padding: 10vh;
+    display: flex;
+
+}
+
+.data3 p{
+    padding-left: 35vh;
+    width: 700px;
+    margin-top: -10vh;
+}
+
+.data3 img{
+    width: 550px;
+    height: 450px;
+}
+
+
+

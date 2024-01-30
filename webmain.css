@@ -1,0 +1,161 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* background-color: #FBFAF8; */
+}
+
+/* dropdown menu  */
+
+a{
+    text-emphasis: none;
+    text-decoration: none;
+    color: black;
+}
+
+section {
+    padding: 0;
+}
+
+.green{
+    width: 100%;
+    height: 5vh;
+    background-color: #007B5E;
+}
+
+img:hover {
+    background-color: #FBFAF8;
+    
+}
+
+.feedback .rate{
+    text-align: center;
+    font-size: 2rem;
+    margin: 1vh;
+    margin-bottom: 0;
+    padding: 1vh;
+    padding-bottom: 0;
+}
+
+.feedback p{
+    text-align: center;
+}
+
+/* i:hover{
+    text-size-adjust: 2rem;
+} */
+
+.stars{
+    text-align: center;
+
+}
+
+.rating {
+    display: inline-block;
+  }
+  
+  .rating input {
+    display: none;
+  }
+  
+  .rating label {
+    float: right;
+    cursor: pointer;
+    color: #ccc;
+    transition: color 0.3s;
+  }
+  
+  .rating label:before {
+    content: '\2605';
+    font-size: 50px;
+  }
+  
+  .rating input:checked ~ label,
+  .rating label:hover,
+  .rating label:hover ~ label {
+    color: #6f00ff;
+    transition: color 0.3s;
+  }
+  
+
+.feedbacktext{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    margin: 1vh;
+    margin-bottom: 0;
+    padding: 1vh;
+    padding-bottom: 0;
+}  
+
+.para{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    flex-direction: column;
+}
+
+.q1{
+    padding: 3vh;
+    font-size: 2vh;
+}
+
+
+
+.q1 p{
+    font-size: 3vh;
+    text-shadow: 0 5px 10px rgba(0, 0, 0, 0.5);
+    color: #fff;
+    mix-blend-mode: overlay;
+}
+
+.q2{
+    padding: 3vh;
+}
+
+.q3{
+    padding: 3vh;
+}
+
+.feedbackbutton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button {
+    background-color: #ffffff00;
+    color: black;
+    width: 8.5em;
+    height: 2.9em;
+    border: #3654ff 0.2em solid;
+    border-radius: 11px;
+    text-align: right;
+    transition: all 0.6s ease;
+  }
+  
+  .button:hover {
+    background-color: #3654ff;
+    cursor: pointer;
+  }
+  
+  .button svg {
+    width: 1.6em;
+    margin: -0.2em 0.8em 1em;
+    position: absolute;
+    display: flex;
+    transition: all 0.6s ease;
+  }
+  
+  .button:hover svg {
+    transform: translateX(5px);
+  }
+  
+  .buttontext {
+    margin: 0 1.5em
+  }
+
+
+.feedback{
+    background-color: rgb(233, 243, 233);
+}
